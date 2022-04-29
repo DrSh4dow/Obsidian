@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "d3173807ff63e715",
+    "type": "split",
+    "children": [
+      {
+        "id": "b167f384ef59188d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fisica/Termodinamica.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f371e5739c2b35c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f2a9af98edeb2f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d72eec3eb3dd3ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d456d51a4409ec58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fb3bfbf0e276702",
+    "type": "split",
+    "children": [
+      {
+        "id": "80e246ad340caf2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be0a3dedfd397c44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fisica/Termodinamica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b167f384ef59188d",
+  "lastOpenFiles": [
+    "Fisica/Termodinamica.md",
+    "Matematicas/Matematicas.md"
+  ]
+}
