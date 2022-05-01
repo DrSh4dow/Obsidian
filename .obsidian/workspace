@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a7dcb60175a84037",
+        "id": "021e69b1c7650ecd",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "93ebe0ddb65ef2f3",
@@ -87,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7dcb60175a84037",
+  "active": "021e69b1c7650ecd",
   "lastOpenFiles": [
     "Ingenieria/Matematicas/1. Ecuaciones de Segundo Grado.md",
+    "Ingenieria/Matematicas/guias/07 Ecuaciones de segundo grado.pdf",
+    "Ingenieria/Matematicas/3. Inecuaciones.md",
+    "Ingenieria/Matematicas/guias/08 Axiomas de orden.pdf",
+    "README.md",
     "Ingenieria/Matematicas/8. Funciones.md",
     "Ingenieria/Matematicas/7. Teoria de Conjuntos.md",
     "Ingenieria/Matematicas/6. Logica proposicional.md",
     "Ingenieria/Matematicas/5. Logica Simbolica.md",
-    "Ingenieria/Matematicas/4. Polinomios.md",
-    "Ingenieria/Matematicas/3. Inecuaciones.md",
-    "Ingenieria/Matematicas/2. Axiomas de Orden.md",
-    "Ingenieria/Matematicas/Matematicas.md",
-    "Ingenieria/Fisica/Termodinamica.md"
+    "Ingenieria/Matematicas/4. Polinomios.md"
   ]
 }
