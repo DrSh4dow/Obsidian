@@ -35,6 +35,21 @@ $$Q = mL_{fusion} \lor Q = mL_{vaporizacion}$$
 
 se debe considerar que mientras no se venza este calor latente requerido la temperatura no aumentara o disminuira.
 
+
+# Eficiencia de maquinas
+maquinas segunda ley:
+$$W=|q_c| - |q_f|$$
+$$e=1-\cfrac{q_c}{q_i}$$
+$$e=\cfrac{W}{|q_c|}$$
+donde:
+$e$ = eficiencia
+$q_f$ = calor que sale (cal o J)
+$q_c$= calor que ingresa
+$W$= Trabajo
+
+
+
+
 # Ejercicios
 1. si una sustancia tiene una temperatura de 104ºF, ¿ Cual es su temperatura en grados Celsius?
 	$$\cfrac{104-32}{9}*5=T_c$$
@@ -64,4 +79,5 @@ se debe considerar que mientras no se venza este calor latente requerido la temp
 6. Dos barras, una de aluminio ($a=24 * 10⁻⁶$) de 2m y otra de cobre ($a=17 * 10⁻⁶$) de 1m de longitud tienen sus extremos separados por una distancia de $1 * 10⁻³m$ a una temperatura de 0ºC. ¿En cuanto debe aumentar su temperatura para que las barras se toquen?
 	$x = 0.000024 * 2* t$
 	 $0.001 -17*10^{-3}*t=x$
- 
+7. Calcular la eficiencia de una maquina terminca a la cual se le suministra $5.8*10^8cal$  y realiza un trabajo de $8.3*10^7j$ .
+	

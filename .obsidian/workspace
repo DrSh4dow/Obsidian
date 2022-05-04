@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "021e69b1c7650ecd",
+        "id": "3a7085bd485e8572",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingenieria/Matematicas/1. Ecuaciones de Segundo Grado.md",
+            "file": "Ingenieria/Fisica/Carga.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "93ebe0ddb65ef2f3",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria/Matematicas/1. Ecuaciones de Segundo Grado.md",
+                "file": "Ingenieria/Fisica/Carga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "021e69b1c7650ecd",
+  "active": "3a7085bd485e8572",
   "lastOpenFiles": [
+    "Ingenieria/Fisica/Carga.md",
     "Ingenieria/Matematicas/1. Ecuaciones de Segundo Grado.md",
-    "Ingenieria/Matematicas/guias/07 Ecuaciones de segundo grado.pdf",
-    "Ingenieria/Matematicas/3. Inecuaciones.md",
-    "Ingenieria/Matematicas/guias/08 Axiomas de orden.pdf",
-    "README.md",
     "Ingenieria/Matematicas/8. Funciones.md",
-    "Ingenieria/Matematicas/7. Teoria de Conjuntos.md",
-    "Ingenieria/Matematicas/6. Logica proposicional.md",
-    "Ingenieria/Matematicas/5. Logica Simbolica.md",
-    "Ingenieria/Matematicas/4. Polinomios.md"
+    "Ingenieria/Fisica/Termodinamica.md",
+    "Ingenieria/Matematicas/guias/07 Ecuaciones de segundo grado.pdf",
+    "Ingenieria/Matematicas/guias/10 Inecuaciones Racionales.pdf",
+    "Ingenieria/Matematicas/guias/13 Polinomios 1.pdf",
+    "Ingenieria/Matematicas/guias/08 Axiomas de orden.pdf",
+    "Ingenieria/Matematicas/3. Inecuaciones.md",
+    "README.md"
   ]
 }
