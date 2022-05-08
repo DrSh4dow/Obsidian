@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ingenieria/Matematicas/3. Inecuaciones.md",
+            "file": "Ingenieria/Matematicas/4. Polinomios.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "93ebe0ddb65ef2f3",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingenieria/Matematicas/3. Inecuaciones.md",
+                "file": "Ingenieria/Matematicas/4. Polinomios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "3a7085bd485e8572",
   "lastOpenFiles": [
+    "Ingenieria/Matematicas/4. Polinomios.md",
+    "Ingenieria/Matematicas/8. Funciones.md",
+    "Ingenieria/Matematicas/7. Teoria de Conjuntos.md",
+    "Ingenieria/Matematicas/6. Logica proposicional.md",
+    "Ingenieria/Matematicas/5. Logica Simbolica.md",
     "Ingenieria/Matematicas/3. Inecuaciones.md",
+    "Ingenieria/Matematicas/2. Axiomas de Orden.md",
     "Ingenieria/Matematicas/1. Ecuaciones de Segundo Grado.md",
     "Ingenieria/Matematicas/guias/07 Ecuaciones de segundo grado.pdf",
-    "Ingenieria/Matematicas/2. Axiomas de Orden.md",
-    "Ingenieria/Matematicas/5. Logica Simbolica.md",
-    "Ingenieria/Matematicas/6. Logica proposicional.md",
-    "Ingenieria/Fisica/Carga.md",
-    "Ingenieria/Matematicas/8. Funciones.md",
-    "Ingenieria/Fisica/Termodinamica.md",
-    "Ingenieria/Matematicas/guias/10 Inecuaciones Racionales.pdf"
+    "Ingenieria/Fisica/Carga.md"
   ]
 }
