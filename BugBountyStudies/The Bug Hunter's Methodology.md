@@ -10,7 +10,7 @@
 8. Bug Bounty Playbook
 9. Bug Bounty Playbook 2, Exploitation
 
-### Resources
+### Resources and Hands on Training
 1. [PentesterLab](https://pentesterlab.com/) : Paid solution for laboratories
 2. [WebSecurityAcademy](https://portswigger.net/web-security)  Guides with real laboratories (free)
 3. HackTheBox
@@ -24,7 +24,7 @@
 4. Open Source. it is absolutely false that everyone looks at the code just for the fact that it is open. Don't overlook the source code of an open source project.
 5. Don't just stay in the surface of the app, the most in depth you go, the most likely it is to find some bugs.
 
-![[Pasted image 20220518234505.png]]
+![[Drawing 2022-05-19 14.17.27.excalidraw.png]]
 
 # Pre-Manual Testing and Automation
 Usually this section can be done with tools for automation. It is good to view an application for its layers and these can be tested individually.
@@ -49,7 +49,55 @@ having completed recon on an assessment or bounty we want to analyze if targets 
 
 everything here it is related to *non-custom code*. These are usually platform, application server, framework, CMS, library, and misconfiguration related.
 
+**Tools for automation of Finding CVE's and Misconfigs**:
+1. [Nuclei](https://github.com/projectdiscovery/nuclei)
+	* It is a community powered vulnerability Scanner highly extensible and allows you to make custom template for custom vulnerabilities or new CVE's that are not yet included.
+	* it has checks for over 1000 CVE's.
+	* it has checks for over 100 informational detections.
+	* 500+ admin panel detectors
+	* 1500+ other checks
+		* creds/keys
+		* 67 subdomain takeover
+		* http form brute force
+		* 3428 total templates
+2. [Jaeles](https://github.com/jaeles-project/jaeles)
+	* Another very popular for automatic web app testing.
+3. Gofingerprint (by Tanner Barnes)
+4. Sn1per (by @xer0dayz)
+5. Intrigue Core (by jcran)
+6. Vulners (Burp Extension)
+7. Retire.js (Vulns related to javascript libs and frameworks)
+
+Avoid hitting with automation large and very known targets because probably they have alredy done that thousands of times. It is best to use these tools on fresh targets or hidden domains.
+
+
 ## Port Scan
+On top of finding CVE's at the layer of the web server, you also wanna do some port scanning. The most fast and extensible port scanner right now it is [Naabu](https://github.com/projectdiscovery/naabu), basically you give it a host, a domain it will resolve it and it will do port scanning for you, then you can pipe it to [nmap](https://nmap.org/) for service scanning or other automation tools of your like.
+So for one shot port scann, Naabu is the way to go.
 
 # Content Discovery
+It is one of the most important parts of your web hacking journey. and they are seven main focus on content discovery discussed on their own section.
+Some tools to automate content discovery:
+1. [FEROXBUSTER](https://github.com/epi052/feroxbuster): A Rust Written tool for automating content discovery. It has the hability to pause content discovery scan and edit it while it is paused. An example of the usefulness it is that sometimes you hit a 200 response but it is actually a custom not found page, so the tool says it is here even when it is not, here with this tool you can pause it, add a filter really quick and then resume it. Actual Go To Tool.
+2. Dirsearch (writteng in python, yuck)
+3. WFuzz: The web fuzzer. preffered by people who really want to control the filters
+4. Ffuf: really fast and was the go to content discovery tool for a long time.
+5. GoBuster
+6. TurboIntruder: Fastest of all of them because it incorporates http pipe lining allowing to send multiple requests per time. limited by being a part of burp paid suite
+
+Content Discovery tools are nothing without the lists that drives them. basically we are sending request trying to find paths and files that exists on the web server, so we need some really good lists.
+Some really amazing lists can be found on [wordlists.assetnote.io](https://wordlists.assetnote.io/).
+
+Recommendations on picking a List:
+![[Pasted image 20220519151209.png]]
+
+
+## Based on tech
+## COTS / PAID / OSS
+## Custom
+## Historical
+## Recursive
+## Mobile APIs
+## Change Detection
+
 # Application Analysis
