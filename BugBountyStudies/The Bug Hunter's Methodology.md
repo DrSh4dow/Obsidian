@@ -88,12 +88,64 @@ Some tools to automate content discovery:
 Content Discovery tools are nothing without the lists that drives them. basically we are sending request trying to find paths and files that exists on the web server, so we need some really good lists.
 Some really amazing lists can be found on [wordlists.assetnote.io](https://wordlists.assetnote.io/).
 
-Recommendations on picking a List:
-![[Pasted image 20220519151209.png]]
-
 
 ## Based on tech
+Recommendations on picking a List to do content discovery based on tech:
+* **Tech**: 
+	* *IIS/MSF (microsoft tech)*
+		* from assetnote.io:
+			* httparchive_aspx_asp_cfm_svc_ashx_asmx_...
+		* IIS Shortname Scanner 
+	* *PHP+CGI*
+		* from assetnote.io:
+			* httparchive_cgi_pl_...
+			* httparchive_php...
+	* *General API*
+		* from assetnote.io:
+			* httparchive_apiroutes_...
+			* swagger-wordlist.txt
+		* [api-endpoints.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/api/api-endpoints.txt)
+	* *JAVA*
+		* from assetnote.io:
+			* httparchive_jsp_jspa_do_action_...
+	* *Generic*
+		* from assetnote.io:
+			* httparchive_directories_1m_...
+		* [RAFT](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
+		* Robots Dissalowed
+		* https://github.com/six2dez/OneListForAll
+		* jhaddix/content_discovery_all.txt
+	* *Others*
+		* in assetnote.io search for anything in the "technology <=> host mappings" section. Like:
+			* AEM
+			* Apache
+			* Cherrypy
+			* Coldfusion
+			* Django
+			* Express
+			* Flask
+			* Laravel
+			* Nginx
+			* Rails
+			* Spring
+			* Symfony
+			* Tomcat
+			* Yii
+			* Zend
+
+>[!tip]
+>pay special attention to configuration files for the technologies you are against
+>specifically the web server or the application framework, for example you can find configuration that have a database connection with hard-coded credentials.
+>It is also useful to take note of where the admin login and routes/endpoints are.
+
 ## COTS / PAID / OSS
+
+**Open Source:**
+if you go againts an application that is open source you can use the tool [Source2URL](https://github.com/danielmiessler/Source2URL) from Daniel Miessler that will index and retrieve the complete map of the app.
+
+**PAID:**
+
+
 ## Custom
 ## Historical
 ## Recursive

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "44c0cb82513835a0",
+        "id": "0ccaf4dd0affedea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "BugBountyStudies/The Bug Hunter's Methodology.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44c0cb82513835a0",
+  "active": "0ccaf4dd0affedea",
   "lastOpenFiles": [
     "BugBountyStudies/The Bug Hunter's Methodology.md",
+    "Assets/Pasted image 20220517172909.png",
     "Assets/Pasted image 20220519151209.png",
+    "Assets/Pasted image 20220519150352.png",
+    "Assets/Pasted image 20220518234505.png",
+    "Books/The Web Application Hacker’s Handbook.pdf",
     "BugBountyStudies/Github Recon and sensitive data exposure.md",
     "Excalidraw/Drawing 2022-05-19 14.17.27.excalidraw.png",
     "().md",
-    "Excalidraw/Drawing 2022-05-19 14.17.27.excalidraw.md",
-    "Pasted Image 20220519142204_095.png",
-    "Excalidraw/ishikawa.excalidraw",
-    "Books/The Web Application Hacker’s Handbook.pdf",
-    "BugBountyStudies/BugBountyDashboard.md"
+    "Excalidraw/Drawing 2022-05-19 14.17.27.excalidraw.md"
   ]
 }
