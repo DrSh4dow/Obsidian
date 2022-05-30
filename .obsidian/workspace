@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "93ebe0ddb65ef2f3",
@@ -100,14 +99,14 @@
   "active": "0ccaf4dd0affedea",
   "lastOpenFiles": [
     "BugBountyStudies/The Bug Hunter's Methodology.md",
+    "Ingenieria/Fisica/Gases Ideales.md",
+    "Ingenieria/Fisica/Termodinamica.md",
     "Assets/Pasted image 20220517172909.png",
     "Assets/Pasted image 20220519151209.png",
     "Assets/Pasted image 20220519150352.png",
     "Assets/Pasted image 20220518234505.png",
     "Books/The Web Application Hacker’s Handbook.pdf",
     "BugBountyStudies/Github Recon and sensitive data exposure.md",
-    "Excalidraw/Drawing 2022-05-19 14.17.27.excalidraw.png",
-    "().md",
-    "Excalidraw/Drawing 2022-05-19 14.17.27.excalidraw.md"
+    "Excalidraw/Drawing 2022-05-19 14.17.27.excalidraw.png"
   ]
 }
