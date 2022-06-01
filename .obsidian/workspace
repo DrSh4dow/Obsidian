@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BugBountyStudies/The Bug Hunter's Methodology.md",
+            "file": "Blockchain/Blockchain Components.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "93ebe0ddb65ef2f3",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BugBountyStudies/The Bug Hunter's Methodology.md",
+                "file": "Blockchain/Blockchain Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +99,7 @@
   },
   "active": "0ccaf4dd0affedea",
   "lastOpenFiles": [
+    "Blockchain/Blockchain Components.md",
     "BugBountyStudies/The Bug Hunter's Methodology.md",
     "Ingenieria/Fisica/Gases Ideales.md",
     "Ingenieria/Fisica/Termodinamica.md",
@@ -106,7 +108,6 @@
     "Assets/Pasted image 20220519150352.png",
     "Assets/Pasted image 20220518234505.png",
     "Books/The Web Application Hacker’s Handbook.pdf",
-    "BugBountyStudies/Github Recon and sensitive data exposure.md",
-    "Excalidraw/Drawing 2022-05-19 14.17.27.excalidraw.png"
+    "BugBountyStudies/Github Recon and sensitive data exposure.md"
   ]
 }
