@@ -1,7 +1,7 @@
 # Getting Started
 ### Books
-1. [The Web Application Hacker's Handbook](obsidian://open?vault=obsidian&file=Books%2FThe%20Web%20Application%20Hacker%E2%80%99s%20Handbook.pdf) : The bible of web hacking
-2. [Real-World Bug Hunting](obsidian://open?vault=obsidian&file=Books%2FReal-World-Bug-Hunting.pdf) : Real world examples
+1. The Web Application Hacker's Handbook : The bible of web hacking
+2. Real-World Bug Hunting : Real world examples
 3. OWASP testing guide
 4. Bug bounty bootcamp
 5. The Hacker Playbook 3

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain/Blockchain Components.md",
+            "file": "BugBountyStudies/The Bug Hunter's Methodology.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Blockchain Components.md",
+                "file": "BugBountyStudies/The Bug Hunter's Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "b2b290d3872a57ba",
   "lastOpenFiles": [
-    "Blockchain/Blockchain Components.md",
     "BugBountyStudies/The Bug Hunter's Methodology.md",
     "BugBountyStudies/Github Recon and sensitive data exposure.md",
+    "Books/Real-World-Bug-Hunting.pdf",
+    "Books/The Web Application Hacker’s Handbook.pdf",
+    "Blockchain/Blockchain Components.md",
     "Ingenieria/Matematicas/8. Funciones.md",
     "Ingenieria/Matematicas/guias/20 Funciones.pdf",
     "Excalidraw/Drawing 2022-06-03 15.08.38.excalidraw.md",
     "Assets/Pasted image 20220603142844.png",
-    "Excalidraw/Drawing 2022-06-03 14.43.14.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-03 14.18.51.excalidraw.md",
-    "Ingenieria/Matematicas/3. Inecuaciones.md"
+    "Excalidraw/Drawing 2022-06-03 14.43.14.excalidraw.md"
   ]
 }
